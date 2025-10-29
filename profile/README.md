@@ -166,7 +166,7 @@ const TagSteel = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/TagSteel/TagSteel/output/github-contribution-grid-snake-dark.svg)
+![Snake animation] 
 
 </div>
 
