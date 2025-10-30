@@ -43,6 +43,20 @@ const TagSteel = {
 
 ---
 
+## 🌐 Languages
+
+<div align="center">
+
+| 🗣️ Language | 📊 Level |
+|:----------:|:--------:|
+| 🇫🇷 **French** | ![Native](https://img.shields.io/badge/Native-100%25-success?style=flat-square) |
+| 🇬🇧 **English** | ![B2](https://img.shields.io/badge/B2-65%25-blue?style=flat-square) |
+| 🇪🇸 **Spanish** | ![B1](https://img.shields.io/badge/B1-50%25-orange?style=flat-square) |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
