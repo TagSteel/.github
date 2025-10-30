@@ -31,25 +31,15 @@ const TagSteel = {
 
 ## 💻 Tech Stack
 
-### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+| Category | Technologies |
+|:--------:|:------------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Tools & Technologies** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Currently Learning** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 
-### Currently Learning
-![PHP](https://img.shields.io/badge/Learning-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Backend](https://img.shields.io/badge/Focus-Backend_Development-success?style=for-the-badge)
-![Databases](https://img.shields.io/badge/Study-Databases-orange?style=for-the-badge)
+</div>
 
 ---
 
@@ -63,15 +53,6 @@ const TagSteel = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TagSteel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TagSteel&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -97,14 +78,14 @@ const TagSteel = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
+| Project | Description | Tech Stack                                                                                 | Status |
+|---------|-------------|--------------------------------------------------------------------------------------------|--------|
 | **🎮 Minecraft Overlay** | Advanced overlay system for Minecraft | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Status](https://img.shields.io/badge/Active-yellow?style=flat-square) |
-| **🛠️ Multitools-plus** | Multi-purpose Java toolkit | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Status](https://img.shields.io/badge/Maintained-green?style=flat-square) |
-| **🌐 Cyberdemos** | HTML demonstration project | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Status](https://img.shields.io/badge/Complete-blue?style=flat-square) |
+| **🛠️ Multitools-plus** | Multi-purpose Java toolkit | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Status](https://img.shields.io/badge/Active-yellow?style=flat-square) |
+| **📚 BookFind** | Book discovery platform (Chromared) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Status](https://img.shields.io/badge/Active-yellow?style=flat-square) |
 
 [![View Multitools-plus](https://img.shields.io/badge/🛠️_Multitools--plus-View_Repository-ED8B00?style=for-the-badge)](https://github.com/TagSteel/Multitools-plus)
-[![View Cyberdemos](https://img.shields.io/badge/🌐_Cyberdemos-View_Repository-E34F26?style=for-the-badge)](https://github.com/TagSteel/cyberdemos)
+[![View BookFind](https://img.shields.io/badge/📚_BookFind-View_Repository-FF6B6B?style=for-the-badge)](https://github.com/Chromared/BookFind)
 
 </div>
 
@@ -123,15 +104,6 @@ const TagSteel = {
 
 ---
 
-## 🎯 2025-2026 Goals
-
-- ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) Complete Minecraft Overlay with Cubenyx Studio
-- ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) Master PHP & Backend Development
-- ![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square) Contribute to Open Source Projects
-- ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square) Build Amazing Projects with @Chromared Team
-- ![Status](https://img.shields.io/badge/Status-Upcoming-orange?style=flat-square) Learn Modern Web Frameworks
-
----
 
 ## 📈 Activity Graph
 
@@ -146,7 +118,6 @@ const TagSteel = {
 [![GitHub](https://img.shields.io/badge/GitHub-TagSteel-181717?style=for-the-badge&logo=github)](https://github.com/TagSteel)
 [![Chromared Team](https://img.shields.io/badge/Team-Chromared-FF6B6B?style=for-the-badge&logo=github)](https://github.com/Chromared)
 [![Cubenyx Studio](https://img.shields.io/badge/Studio-Cubenyx-62B47A?style=for-the-badge&logo=minecraft)](https://github.com/Cubenyx-Studio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blueviolet?style=for-the-badge&logo=google-chrome)](https://github.com/TagSteel)
 
 </div>
 
@@ -157,16 +128,6 @@ const TagSteel = {
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation] 
 
 </div>
 
