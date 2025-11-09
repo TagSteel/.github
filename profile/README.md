@@ -123,18 +123,6 @@ const TagSteel = {
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-TagSteel-181717?style=for-the-badge&logo=github)](https://github.com/TagSteel)
-[![Chromared Team](https://img.shields.io/badge/Team-Chromared-FF6B6B?style=for-the-badge&logo=github)](https://github.com/Chromared)
-[![Cubenyx Studio](https://img.shields.io/badge/Studio-Cubenyx-62B47A?style=for-the-badge&logo=minecraft)](https://github.com/Cubenyx-Studio)
-
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
