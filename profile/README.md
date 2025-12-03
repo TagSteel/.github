@@ -61,8 +61,6 @@ const TagSteel = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TagSteel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TagSteel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E)
 
 
