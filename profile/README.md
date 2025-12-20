@@ -50,8 +50,8 @@ const TagSteel = {
 | 🗣️ Language | 📊 Level |
 |:----------:|:--------:|
 | 🇫🇷 **French** | ![Native](https://img.shields.io/badge/Native-success?style=flat-square) |
-| 🇬🇧 **English** | ![B2](https://img.shields.io/badge/B1+-blue?style=flat-square) |
-| 🇪🇸 **Spanish** | ![B1](https://img.shields.io/badge/A2+-orange?style=flat-square) |
+| 🇬🇧 **English** | ![B1](https://img.shields.io/badge/B1-blue?style=flat-square) |
+| 🇪🇸 **Spanish** | ![A2+](https://img.shields.io/badge/A2+-orange?style=flat-square) |
 
 </div>
 
