@@ -68,39 +68,6 @@ const TagSteel = {
 
 ---
 
-## 🔥 Current Focus
-
-<div align="center">
-
-### 🎮 Minecraft Overlay Project
-
-[![Cubenyx Studio](https://img.shields.io/badge/🎨_Cubenyx_Studio-Active_Project-62B47A?style=for-the-badge&logo=minecraft)](https://github.com/Cubenyx-Studio)
-[![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)]()
-[![Minecraft](https://img.shields.io/badge/Platform-Minecraft-green?style=for-the-badge&logo=minecraft)]()
-
-**Working on an awesome Minecraft overlay system with the Cubenyx Studio team!**
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack                                                                                 | Status |
-|---------|-------------|--------------------------------------------------------------------------------------------|--------|
-| **🎮 Minecraft Overlay** | Advanced overlay system for Minecraft | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Status](https://img.shields.io/badge/Active-yellow?style=flat-square) |
-| **🛠️ Multitools-plus** | Multi-purpose Java toolkit | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Status](https://img.shields.io/badge/Active-yellow?style=flat-square) |
-| **📚 BookFind** | Book discovery platform (Chromared) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Status](https://img.shields.io/badge/Active-yellow?style=flat-square) |
-
-[![View Multitools-plus](https://img.shields.io/badge/🛠️_Multitools--plus-View_Repository-ED8B00?style=for-the-badge)](https://github.com/TagSteel/Multitools-plus)
-[![View BookFind](https://img.shields.io/badge/📚_BookFind-View_Repository-FF6B6B?style=for-the-badge)](https://github.com/Chromared/BookFind)
-
-</div>
-
----
-
 ## 👥 Teams & Collaborations
 
 <div align="center">
