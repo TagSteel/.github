@@ -20,7 +20,6 @@
 const TagSteel = {
     location: "France 🇫🇷",
     teams: ["Chromared", "Cubenyx Studio"],
-    currentProject: "Minecraft Overlay 🎮",
     currentlyLearning: ["PHP", "Backend Development", "Database Management"],
     hobbies: ["Coding", "Gaming", "Building Cool Stuff", "Open Source"],
     askMeAbout: ["Web Dev", "Java", "Minecraft", "Team Projects"]
