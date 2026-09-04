@@ -57,13 +57,6 @@ const TagSteel = {
 
 ---
 
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TagSteel&theme=redical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📊 DevGlobe Stats
 
 <div align="center">
